@@ -8,6 +8,7 @@ acrimonious
 	- **Ex.** Their divorce was acrimonious, with both parties hurling insults.
 	- Synonyms
 		- caustic, scathing, astringent
+<!--SR:!2025-10-24,3,250-->
 
 belligerent
 ?
@@ -28,10 +29,11 @@ beneficent
 canny
 ?
 - adjective
-	- shrewd and cautious
+	- shrewd and cautious, especially in money or business matters
 	- **Ex.** Her canny investments made her a millionaire.
 	- Synonyms
 		- astute, discerning, acute
+<!--SR:!2025-10-25,4,270-->
 
 cavalier
 ?
@@ -64,6 +66,7 @@ eclipse
 	- **Ex.** The success of her latest book eclipsed all her previous works.
 	- Synonyms
 		- outshine, outstrip, upstage
+<!--SR:!2025-10-25,4,270-->
 
 encyclopedic
 ?
@@ -72,6 +75,7 @@ encyclopedic
 	- **Ex.** His encyclopedic knowledge of history impressed everyone.
 	- Synonyms
 		- exhaustive, wide-ranging, all-inclusive
+<!--SR:!2025-10-25,4,270-->
 
 exacerbate
 ?
@@ -104,6 +108,7 @@ hackneyed
 	- **Ex.** "Love at first sight" is a hackneyed plot in romance novels.
 	- Synonyms
 		- trite, banal, pedestrian
+<!--SR:!2025-10-24,3,250-->
 
 incongruous
 ?
@@ -120,6 +125,7 @@ interchangeable
 	- **Ex.** The parts are interchangeable between the different models.
 	- Synonyms
 		- fungible, uniform, homogeneous
+<!--SR:!2025-10-25,4,270-->
 
 laconic
 ?
@@ -189,6 +195,7 @@ provocative
 	- **Ex.** His provocative statements stirred up controversy.
 	- Synonyms
 		- goading, affronting, galling
+<!--SR:!2025-10-24,3,250-->
 
 renounce
 ?

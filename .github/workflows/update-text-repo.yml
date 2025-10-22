@@ -1,0 +1,35 @@
+name: Update Text Repository
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Perform checkout
+      uses: actions/checkout@v5
+    - name: Make published branch
+      run: |
+        mkdir ../text
+        find . -name '*.md' -exec cp --parents \{\} ../text \;
+        echo "ls ../text"
+        ls ../text
+        cp -r ../text release-text
+        echo "ls ."
+        ls .
+    - name: Deploy
+      uses: cpina/github-action-push-to-another-repository@v1.7.3
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      with:
+        source-directory: release-text/
+        destination-github-username: 'atlinx'
+        destination-repository-name: 'gre-text'
+        user-email: atlinuxtm@gmail.com
+        commit-message: See ORIGIN_COMMIT from $GITHUB_REF
+        target-branch: main
+        create-target-branch-if-needed: true

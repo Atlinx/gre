@@ -8,6 +8,7 @@ abound
 	- **Ex.** Wildfires abound in the lush green meadows of the valley.
 	- Synonyms
 		- proliferate, thrive, flourish
+<!--SR:!2025-10-25,4,272-->
 
 amorphous
 ?
@@ -16,6 +17,7 @@ amorphous
 	- **Ex.** His plans for the future were still amorphous, changing every few weeks.
 	- Synonyms
 		- shapeless, indefinite, vague
+<!--SR:!2025-10-25,4,272-->
 
 austere
 ?
@@ -29,6 +31,7 @@ austere
 	- **Ex.** John moved into an austere apartment with only the most basic furnishings and no luxuries.
 	- Synonyms
 		- spartan, ascetic, abstemious
+<!--SR:!2025-10-25,4,272-->
 
 belie
 ?
@@ -37,6 +40,7 @@ belie
 	- **Ex.** Her sparkling eyes belie the sadness she must feel.
 	- Synonyms
 		- conceal, contradict, be at odds with
+<!--SR:!2025-10-25,4,272-->
 
 capricious
 ?
@@ -45,6 +49,7 @@ capricious
 	- **Ex.** The capricious nature of the weather has made planning outdoor events difficult.
 	- Synonyms
 		- mercurial, volatile, impulsive
+<!--SR:!2025-10-25,4,272-->
 
 cerebral
 ?
@@ -58,6 +63,7 @@ cerebral
 	- **Ex.** Sophia had a cerebral approach to solving problems.
 	- Synonyms
 		- analytical, rational, academic
+<!--SR:!2025-10-25,4,272-->
 
 congenial
 ?
@@ -71,6 +77,7 @@ congenial
 	- **Ex.** She found the small town a more congenial way of life.
 	- Synonyms
 		- pleasant, agreeable, appealing
+<!--SR:!2025-10-25,4,272-->
 
 conspicuous
 ?
@@ -79,6 +86,7 @@ conspicuous
 	- **Ex.** On Insta, it's important that your vacation be as conspicuous as possible.
 	- Synonyms
 		- manifest, patent, striking
+<!--SR:!2025-10-25,4,272-->
 
 cursory
 ?
@@ -87,6 +95,7 @@ cursory
 	- **Ex.** He gave a cursory glance at the document before signing it.
 	- Synonyms
 		- desultory, perfunctory, token
+<!--SR:!2025-10-25,4,272-->
 
 daunting
 ?
@@ -95,6 +104,7 @@ daunting
 	- **Ex.** Memorizing 960 GRE words is daunting but necessary.
 	- Synonyms
 		- formidable, intimidating, unnerving
+<!--SR:!2025-10-25,4,272-->
 
 deify
 ?
@@ -103,6 +113,7 @@ deify
 	- **Ex.** In some ancient cultures, the sun was deified and worshiped.
 	- Synonyms
 		- venerate, lionize, exalt
+<!--SR:!2025-10-25,4,272-->
 
 didactic
 ?
@@ -111,6 +122,7 @@ didactic
 	- **Ex.** The play was not only entertaining but also didactic, offering lessons on morality.
 	- Synonyms
 		- instructive, doctrinal, pedagogic
+<!--SR:!2025-10-25,4,272-->
 
 disseminate
 ?
@@ -119,6 +131,7 @@ disseminate
 	- **Ex.** The invention of the printing press allowed information to disseminate rapidly.
 	- Synonyms
 		- disperse, promulgate, propagate
+<!--SR:!2025-10-25,4,272-->
 
 feasible
 ?
@@ -127,6 +140,7 @@ feasible
 	- **Ex.** Hopefully carbon capture technology will be feasible in the future.
 	- Synonyms
 		- attainable, realizable, expedient
+<!--SR:!2025-10-25,4,272-->
 
 flout
 ?
@@ -135,6 +149,7 @@ flout
 	- **Ex.** Students flouted the classroom's "no chewing gum" rule.
 	- Synonyms
 		- defy, scorn, contravene
+<!--SR:!2025-10-24,3,252-->
 
 homogeneous
 ?
@@ -143,6 +158,7 @@ homogeneous
 	- **Ex.** The population in the small town was quite homogeneous, with little diversity.
 	- Synonyms
 		- uniform, analogous, undistinguishable
+<!--SR:!2025-10-25,4,272-->
 
 humdrum
 ?
@@ -151,6 +167,7 @@ humdrum
 	- **Ex.** More often than not, Netflix movies are humdrum, cookie-cutter affairs.
 	- Synonyms
 		- mundane, banal, prosaic
+<!--SR:!2025-10-25,4,272-->
 
 insipid
 ?
@@ -159,6 +176,7 @@ insipid
 	- **Ex.** The professor was tiring of the students' insipid remarks.
 	- Synonyms
 		- bland, dull, vapid
+<!--SR:!2025-10-25,4,272-->
 
 loquacious
 ?
@@ -167,6 +185,7 @@ loquacious
 	- **Ex.** Loquacious to a fault, Bill never took the hint to, on occasion, shut up.
 	- Synonyms
 		- garrulous, voluble, verbose
+<!--SR:!2025-10-25,4,272-->
 
 misanthropic
 ?
@@ -175,14 +194,14 @@ misanthropic
 	- **Ex.** No one has seen that misanthropic hermit in years.
 	- Synonyms
 		- reclusive, unsociable, inhospitable
+<!--SR:!2025-10-25,4,272-->
 
 misnomer
 ?
 - noun
 	- a misleading or inaccurate name
-	- **Ex.** The authoritarian regime likes to call itself a "democracy," an obvious misnomer.
-	- Synonyms
-		- 
+	- **Ex.** The authoritarian regime likes to call itself a "democracy," an obvious misnomer
+<!--SR:!2025-10-25,4,270--> 
 
 negligent
 ?
@@ -191,6 +210,7 @@ negligent
 	- **Ex.** The captain's negligent behavior led to the death of thousands.
 	- Synonyms
 		- remiss, neglectful, lax
+<!--SR:!2025-10-25,4,272-->
 
 obsequious
 ?
@@ -199,6 +219,7 @@ obsequious
 	- **Ex.** Dictators tend to surround themselves with obsequious apologists.
 	- Synonyms
 		- servile, sycophantic, unctuous
+<!--SR:!2025-10-25,4,272-->
 
 placate
 ?
@@ -207,6 +228,7 @@ placate
 	- **Ex.** He tried to placate the angry customer by offering a full refund.
 	- Synonyms
 		- pacify, mollify, conciliate
+<!--SR:!2025-10-25,4,272-->
 
 proclivity
 ?
@@ -215,6 +237,7 @@ proclivity
 	- **Ex.** Her proclivity for expensive pastries is wreaking havoc on her finances.
 	- Synonyms
 		- inclination, propensity, tendency
+<!--SR:!2025-10-25,4,272-->
 
 puerile
 ?
@@ -223,6 +246,7 @@ puerile
 	- **Ex.** The mature audience was unimpressed by the comedian's puerile humor.
 	- Synonyms
 		- infantile, juvenile, inane
+<!--SR:!2025-10-25,4,272-->
 
 quixotic
 ?
@@ -231,6 +255,7 @@ quixotic
 	- **Ex.** His quixotic dream of creating a world without conflict seemed impossible.
 	- Synonyms
 		- idealistic, utopian, nonviable
+<!--SR:!2025-10-25,4,272-->
 
 spendthrift
 ?
@@ -239,6 +264,7 @@ spendthrift
 	- **Ex.** He was a spendthrift, constantly buying unnecessary items and racking up debt.
 	- Synonyms
 		- profligate, prodigal, squanderer
+<!--SR:!2025-10-25,4,272-->
 
 taciturn
 ?
@@ -247,6 +273,7 @@ taciturn
 	- **Ex.** He's generally taciturn, so when he speaks you know it's important.
 	- Synonyms
 		- unforthcoming, reserved, retiring
+<!--SR:!2025-10-25,4,272-->
 
 wary
 ?
@@ -255,3 +282,4 @@ wary
 	- **Ex.** We can't always be wary; sometimes we have to take risks.
 	- Synonyms
 		- chary, vigilant, heedful
+<!--SR:!2025-10-25,4,272-->
