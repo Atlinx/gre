@@ -3,7 +3,8 @@
 # Ignore everything
 *
 
-# Allow obsidian and markdown files
+# Allow gitignore, obsidian, and markdown files
+!.gitignore
 !.obsidian
 .obsidian/workspace*.json
 !*.md
