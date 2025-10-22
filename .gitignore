@@ -1,1 +1,3 @@
-.obsidian/workspace.json
+# .gitignore for main repository
+
+.obsidian/workspace*.json
