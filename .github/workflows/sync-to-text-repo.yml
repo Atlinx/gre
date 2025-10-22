@@ -38,6 +38,8 @@ jobs:
         mv .github/workflows/sync-from-text-repo.yml.old ../text/.github/workflows/sync-from-text-repo.yml
         mv .gitignore.text ../text/.gitignore
         cd ../text
+        echo "Files inside ./text"
+        ls -a .
         git config user.name "${{ github.actor }}"
         git config user.email "${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com"
         git status
