@@ -1,0 +1,50 @@
+name: Sync to Text Repository
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+
+env:
+  MAIN_REPO: atlinx/gre
+  TEXT_REPO: atlinx/gre-text
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout main repo
+      uses: actions/checkout@v5
+      with:
+        token: ${{ secrets.API_TOKEN_GITHUB }}
+        path: ./main
+    - name: Checkout text repo
+      uses: actions/checkout@v5
+      with:
+        token: ${{ secrets.API_TOKEN_GITHUB }}
+        repository: ${{ env.TEXT_REPO }}
+        path: ./text
+    - name: Publish changes
+      run: |
+        cd text
+        find . -not -path "./.git*" -delete
+        cd ../main
+        COMMIT_MESSAGE=$(git log -1 --pretty=%B)
+        echo "COMMIT_MESSAGE=${COMMIT_MESSAGE}" >> $GITHUB_ENV
+        find . -name '*.md' -exec cp --parents \{\} ../text \;
+        cp -r .obsidian ../text/
+        mkdir -p ../text/.github/workflows
+        mv .github/workflows/sync-from-text-repo.yml.old ../text/.github/workflows/sync-from-text-repo.yml
+        cd ../text
+        git config user.name "${{ github.actor }}"
+        git config user.email "${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com"
+        git status
+        if [[ $(git status --porcelain) ]]; then
+          echo "There are uncommitted changes in the repository, committing changes."
+          git add .
+          git commit -m "${{ env.COMMIT_MESSAGE }} — See https://github.com/${{ env.TEXT_REPO }}/commit/${{ github.sha }}"
+          git push
+        else
+          echo "The repository is clean; no uncommitted changes."
+        fi
